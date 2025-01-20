@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #151515;
+}
+
+.ellipse-gradient-blur {
+  position: absolute;
+  top: 30%;
+  left: 60%;
+  width: 400px;
+  height: 100px;
+  background: radial-gradient(circle at center, #8c3fff, #8945ff);
+  filter: blur(200px);
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
