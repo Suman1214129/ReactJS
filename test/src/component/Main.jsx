@@ -11,8 +11,8 @@ function Main() {
       <div className=' noise ellipse-gradient-blur mx-96 -m-96'></div>
       <div className='  my-36 mx-48 relative z-10 '>
         <div className="flex flex-col justify-center items-center  text-center">
-          <h1 className="text-6xl max-w-3xl font-medium mb-4">Watch. Learn. Practice. Repeat.</h1>
-          <p className="text-[#a8a8a8] flex items-center font-medium text-2xl py-6 max-w-[750px] mb-7">
+          <h1 className="text-6xl max-w-3xl font-medium mb-3">Watch. Learn. Practice. Repeat.</h1>
+          <p className="text-[#a8a8a8] flex items-center font-medium text-xl py-6 max-w-[650px] mb-6">
             Cesium is an AI-powered platform that enhances your learning experience by providing a personalized learning journey.
           </p>
           <div className="flex justify-center items-center space-x-0">
