@@ -10,10 +10,10 @@ body {
   position: absolute;
   top: 30%;
   left: 60%;
-  width: 400px;
-  height: 100px;
+  width: 450px;
+  height: 300px;
   background: radial-gradient(circle at center, #8c3fff, #8945ff);
-  filter: blur(200px);
+  filter: blur(350px);
   transform: translate(-50%, -50%);
   z-index: -1;
 }

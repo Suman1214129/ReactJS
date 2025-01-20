@@ -2,9 +2,10 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div className="bg-[#19181c] text-white py-4 rounded-t-3xl mt-20">
+    <div className=" text-white py-4 rounded-t-3xl mt-20">
       <div className="flex justify-center">
-        <div className="flex flex-col items-center px-10 py-4">
+        <div className="flex flex-col px-24 py-4">
+        <input type="text" placeholder="Email" className="bg-[#2b2a2e] text-white p-1 rounded-md w-[300px] mx-48 " />
           <h1 className="text-2xl font-medium py-4 ">Social media</h1>
           <a href="https://www.linkedin.com/feed/" className="text-[#a8a8a8] hover:text-[#8763ff]">LinkedIn</a>
           <a href="https://www.instagram.com" className="text-[#a8a8a8] hover:text-[#8763ff]">Instagram</a>
